@@ -2,7 +2,7 @@
 
 Developer 
 
-![ Website](https://img.shields.io/badge/WEBSITE-website-aqua?style=plastic?label)
+[![ Website](https://img.shields.io/badge/WEBSITE-website-aqua?style=plastic?label)](https://kotnk.eu)
 
 ---
 
@@ -21,4 +21,4 @@ Developer
 - **Role:** Student 
 - **Interests:** Web development, scripting
 
- [![envelope](https://www.readmecodegen.com/api/social-icon?name=envelope&size=60&bg=%23374151&shape=circle&animation=glow&color=%233b82f6&showText=true&text=EMAIL&textColor=%23ffffff&link=info%40kotnk.eu)](info@kotnk.eu)
+ [![envelope](https://www.readmecodegen.com/api/social-icon?name=envelope&size=60&bg=%23374151&shape=circle&animation=glow&color=%233b82f6&showText=true&text=EMAIL&textColor=%23ffffff&link=info%40kotnk.eu)](mailto:info@kotnk.eu)
